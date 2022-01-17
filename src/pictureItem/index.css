@@ -1,0 +1,14 @@
+.button-thumb {
+  background-color: transparent;
+  border-width: 0px;
+  cursor: pointer;
+  outline: none;
+}
+.thumb-image {
+  height: 90px;
+}
+@media screen and (min-width: 768px) {
+  .thumb-image {
+    height: 200px;
+  }
+}
